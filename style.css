@@ -23,7 +23,7 @@
     align-items: center;
     justify-content: space-between;
 }
-button{
+.button{
     color:#fbfcfd;
     padding: 10px 25px;
     background: transparent;
